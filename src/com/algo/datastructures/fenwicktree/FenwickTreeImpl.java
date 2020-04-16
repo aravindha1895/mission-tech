@@ -1,5 +1,5 @@
 package com.algo.datastructures.fenwicktree;
-// TODO
+// TODO: Test data for range queries tat does start from  index 0 ex range [3,7], get freq at particular point ex, range [4,4]
 /***
  * Fenwick tree implemetnation. Same code as in geeksforgeek.
  * https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
